@@ -32,13 +32,13 @@ layers:
   - V
   - B
   - LEFT WIN
-  - DELETE
+  - RALT
   - N
   - M
   - ','
   - .
   - /
-  - /
+  - LEFT WIN
   - {t: LANGUAGE 2, h: Arrow}
   - numAndMarks
   - BACKSPACE
